@@ -13,4 +13,6 @@ int main()
     printf("Variables of type long float occupy %lu\n", sizeof(float));
     printf("Variables of type long occupy %lu\n", sizeof(double));
     printf("Variables of type long double occupy %lu\n", sizeof(long double));
+
+    return 0;
 }
